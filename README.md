@@ -1,2 +1,2 @@
 # myFile
-A mini project
+A mini project about food
